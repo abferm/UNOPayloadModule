@@ -1,0 +1,5 @@
+changes made according to this discussion 
+
+http://www.avrfreaks.net/index.php?name=PNphpBB2&file=viewtopic&p=574737&sid=0d73d27555a0fd91faca37b6beee924e#574737
+
+as well as some changes so I wasn't affecting the integrity of the original 323 files
